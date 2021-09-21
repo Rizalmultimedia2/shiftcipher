@@ -1,6 +1,6 @@
 # Tugas Kriptografi Pertemuan 2
 
-program shift cipher
+## program shift cipher
 
-Nama  : Rizal Herliansyah Hidayat
+Nama  : Rizal Herliansyah Hidayat 
 NPM   : 140810190002
