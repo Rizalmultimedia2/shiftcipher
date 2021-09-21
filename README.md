@@ -6,4 +6,4 @@ Nama  : Rizal Herliansyah Hidayat
 NPM   : 140810190002
 
 Screenshot :  
-![Screenshot](screenshot.png "Shift cipher")
+![Screenshot](Screenshot.png "Shift cipher")
